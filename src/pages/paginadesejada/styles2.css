@@ -1,0 +1,31 @@
+.noHover:hover {
+    background: transparent !important;
+  }
+
+  .logout-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+
+
+  /* Adicionado */
+  .is-invalid {
+    border-color: #dc3545 !important;
+  }
+  
+  .valid {
+    border-color: #28a745 !important;
+  }
+  
+  /* styles1.css */
+.input-invalid {
+  color: red;
+}
+  .text-danger {
+    color: #dc3545;
+  }
+  
+  .text-success {
+    color: #28a745;
+  }
